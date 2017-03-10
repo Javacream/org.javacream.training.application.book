@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Mar 10 15:06:41 CET 2017:
+Booten von Derby-Version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): Instanz a816c00e-015a-b88a-fd4a-00000959afc8
+für Datenbankverzeichnis memory:/home/rainer/git/org.javacream.training.application.book/org.javacream.training.application.book/org.javacream.training.application.book.cdi/org.javacream.training.application.book.cdi.jee/org.javacream.training.application.book.cdi.jee.jpa/myDB mit Class Loader sun.misc.Launcher$AppClassLoader@135fbaa4
+Geladen aus file:/home/rainer/.m2/repository/org/glassfish/main/extras/glassfish-embedded-all/4.1/glassfish-embedded-all-4.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-8u121-b13-0ubuntu1.16.04.2-b13
+user.dir=/home/rainer/git/org.javacream.training.application.book/org.javacream.training.application.book/org.javacream.training.application.book.cdi/org.javacream.training.application.book.cdi.jee/org.javacream.training.application.book.cdi.jee.jpa
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-66-generic
+derby.system.home=null
+Datenbank-Class Loader wurde gestartet - derby.database.classpath=''
